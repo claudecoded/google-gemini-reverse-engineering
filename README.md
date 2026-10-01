@@ -13,8 +13,7 @@ While the core AI inference occurs remotely on Google's cloud servers, we can in
 3. Type a prompt and send a message to the AI.
 4. Watch the real-time HTTP requests populate the list.
 
-<img width="1093" height="605" alt="Screenshot 2026-10-01 140833" src="https://github.com/user-attachments/assets/caebc140-f500-4460-8ed0-6d2af3f10161" />
-
+<img width="790" height="452" alt="image" src="https://github.com/user-attachments/assets/7ab4a860-c13e-469c-a181-919f604480ac" />
 
 
 https://github.com/user-attachments/assets/3297fe95-fb31-4aea-b3b0-5a030cdccd14
