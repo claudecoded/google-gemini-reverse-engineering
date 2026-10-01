@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Inside Google AI: Reverse Engineering the Gemini Web Interface (made by an human)
+# 🕵️‍♂️ Inside Google AI: Reverse Engineering of the Gemini Web Interface (made by an human)
 
 This repository is a technical study focused on uncovering what happens "behind the scenes" of the Google Gemini web interface. Here, I document how the browser communicates with Google's AI cloud servers using browser Developer Tools (DevTools).
 
